@@ -14,9 +14,8 @@ alert((9 / 5) * Tc + 32);
 Скопировать значение из name в admin. 
 Вывести в консоль переменную admin (должно вывести "Василий").
 */
-let admin = "";
 let name = "Василий";
-admin = name;
+let admin = name;
 alert("Администратор: " + admin);
 
 /*
